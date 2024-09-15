@@ -4,14 +4,14 @@ public class WeatherRVModal {
 
     public String time;
     public String temperature;
-    public String icon;
-    public String windSpeed;
+    public String condition;
+    public String wind;
 
-    public WeatherRVModal(String time, String temperature, String icon, String windSpeed) {
+    public WeatherRVModal(String time, String temperature, String condition, String wind) {
         this.time = time;
         this.temperature = temperature;
-        this.icon = icon;
-        this.windSpeed = windSpeed;
+        this.condition = condition;
+        this.wind = wind;
     }
 
 
@@ -24,19 +24,19 @@ public class WeatherRVModal {
     }
 
     public String getWindSpeed() {
-        return windSpeed;
+        return wind;
     }
 
-    public void setWindSpeed(String windSpeed) {
-        this.windSpeed = windSpeed;
+    public void setWindSpeed(String wind) {
+        this.wind = wind;
     }
 
     public String getIcon() {
-        return icon;
+        return condition;
     }
 
-    public void setIcon(String icon) {
-        this.icon = icon;
+    public void setIcon(String condition) {
+        this.condition = condition;
     }
 
     public String getTemperature() {
