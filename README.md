@@ -7,6 +7,7 @@ An Android weather application that fetches and displays real-time weather data 
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [APIs Used](#apis-used)
+-  [Screenshots](#screenshots)
 
 
 ## Features
@@ -34,10 +35,17 @@ This project uses the [WeatherAPI](https://www.weatherapi.com/) to fetch weather
 
 ## Screenshots
 
-### Example Screenshot
+### Home Screen
+![Home Screen](https://github.com/chathumiamarasinghe/Weather-Android-App/blob/main/images/WhatsApp%20Image%202024-09-19%20at%2018.41.43.jpeg)
 
-![Example Screenshot](https://github.com/chathumiamarasinghe/Weather-Android-App/blob/main/images/WhatsApp%20Image%202024-09-19%20at%2018.41.43.jpeg)
+### Another Screenshot
+![Another Screenshot](https://github.com/chathumiamarasinghe/Weather-Android-App/blob/main/images/dark.jpeg)
 
+### Additional Screenshot
+![Additional Screenshot](https://github.com/chathumiamarasinghe/Weather-Android-App/blob/main/images/WhatsApp%20Image%202024-09-19%20at%2018.41.44.jpeg)
+
+### Final Screenshot
+![Final Screenshot](https://github.com/chathumiamarasinghe/Weather-Android-App/blob/main/images/WhatsApp%20Image%202024-09-19%20at%2018.45.39.jpeg)
 
 
 ### Sample API Request
