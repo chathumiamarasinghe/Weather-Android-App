@@ -32,6 +32,14 @@ An Android weather application that fetches and displays real-time weather data 
 ## APIs Used
 This project uses the [WeatherAPI](https://www.weatherapi.com/) to fetch weather data, including current temperature, condition, and forecast.
 
+## Screenshots
+
+### Example Screenshot
+
+![Example Screenshot](https://github.com/chathumiamarasinghe/Weather-Android-App/blob/main/images/WhatsApp%20Image%202024-09-19%20at%2018.41.43.jpeg)
+
+
+
 ### Sample API Request
 The app makes a GET request to the WeatherAPI to fetch weather data:
 
